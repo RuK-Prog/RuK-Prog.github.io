@@ -1,0 +1,28 @@
+*{
+ margin:0;
+ padding:0;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+ background-color: #18408f;
+}
+
+h1 {
+ font-size: 100px;
+ text-align: center;
+ color: #7fdbaf;
+ padding: 30px;
+}
+
+h2 {
+ font-size: 80px;
+ text-align: center;
+ color: #7fdbaf;
+ padding: 10px;
+}
+
+img {
+	margin: 10px auto 20px;
+    display: block;
+}
